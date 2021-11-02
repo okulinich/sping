@@ -6,7 +6,7 @@ Goals:
 2. The tool should be super fast (that is what the name means - s[uper]ping
 3. The tool should consist of a library and command-line utility.
 4. The tool shouldn't grab all the CPU/RAM resources, or print at least a warning
-5. Doxygen should be used to create a documentation
+5. Doxygen should be used to create a documentation (JavaDoc-style banner comments)
 
 
 Architecture:
