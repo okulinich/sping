@@ -16,9 +16,10 @@ Library    <---->    Command line tool
 
 
 Features:
-1. TCP,UPD,ICMP packets sending with a specified delay
-2. UDP attack
-3. TCP SYN attack
+1. Sniffer mode
+2. TCP,UPD,ICMP packets sending with a specified delay
+3. UDP attack
+4. TCP SYN attack
 5. IP source address spoofing
 6. Port scanning
 7. Setting type of service field
